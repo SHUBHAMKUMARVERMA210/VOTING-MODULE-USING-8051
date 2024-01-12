@@ -43,3 +43,6 @@ List the prerequisites that users need to have before they can use or contribute
 
 ## OUTPUT 
 
+![VOTING OUTPUT](https://github.com/SHUBHAMKUMARVERMA210/VOTING-MODULE-USING-8051/assets/92731930/afee481c-6368-41ec-8ce9-6f1fba2d7fca)
+![CANDIDATE DISPLAY OUTPUT](https://github.com/SHUBHAMKUMARVERMA210/VOTING-MODULE-USING-8051/assets/92731930/60207f38-1a70-4892-be9b-514603956502)
+
